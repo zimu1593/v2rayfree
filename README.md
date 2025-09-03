@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-02 20:24:09  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-03 01:51:56  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -37,4 +37,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi5bqG56Wd5LiW55WM5Y+N5rOV6KW/5pav5oiY5LqJ6IOc5Yip
 
 ```
 
-更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/free-nodes/clashfree)  ![](https://tj.clashgithub.com/matomo.php?idsite=9&amp;rec=1)
+更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/free-nodes/clashfree)
