@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-16 08:36:43  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-16 08:50:01  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -8,10 +8,8 @@
 
 ## 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2`  
 
-### 公益机场推荐【 [ORYMI](https://120555.xyz/#/register?code=rDsEp8Hf) 】
+## 公益机场推荐【 [ORYMI](https://orymi.cc/#/register?code=rDsEp8Hf) 】
 
 免费套餐详情：
 
@@ -21,9 +19,9 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 - 订单日重置流量
 - 解锁流媒体及ChatGPT
 
-网站注册地址：【 [ORYMI（点击注册）](https://120555.xyz/#/register?code=rDsEp8Hf)】
+网站注册地址：【 [ORYMI（点击注册）](https://orymi.cc/#/register?code=rDsEp8Hf)】
 
-### 高速机场推荐1【[飞鸟加速](https://www.112112789.xyz/?path=register&code=DmrHrGck)】
+## 高速机场推荐1【[飞鸟加速](https://www.112112789.xyz/?path=register&code=DmrHrGck)】
 
 ? 飞鸟加速 · 高速·稳定·无限可能
 
@@ -37,6 +35,9 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 网站注册地址：【[飞鸟加速（点击注册](https://www.112112789.xyz/?path=register&code=DmrHrGck)）】
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
+
+## v2ray免费节点订阅  
+- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2`  
 
 ## v2ray免费节点分享
 
