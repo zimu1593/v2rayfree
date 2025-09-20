@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-20 08:29:30  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-20 12:47:19  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -106,8 +106,8 @@ vless://5218f249-128d-40bf-d9b9-64004622b502@cafearz.com:8080?allowInsecure=0&sn
 vless://20d98fd8-b472-4574-eeae-b1ecc9082eb9@www.speedtest.net:2053?allowInsecure=0&sni=2020.dnss-mobile.ir&alpn=http/1.1&type=ws&host=2020.dnss-mobile.ir&path=/fp=chrome&security=tls#US_speednode_0045
 ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202509121565513-QOZnRQnbPm.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-QOZnRQnbPm.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443?plugin=v2ray-plugin;mode=websocket;path=/nvcnjrmkggoy;host=jp5v1.lingjfjkm002.com;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-QOZnRQnbPm.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
 
 ```
