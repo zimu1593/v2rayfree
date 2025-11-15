@@ -1,4 +1,4 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-15 12:49:30  
+# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-15 16:29:11  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -176,8 +176,8 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?allowInsecure=0&
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@autos.jykvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0026
 vless://1762a070-294a-4999-9c59-05aa4922feed@185.177.238.80:443?allowInsecure=0&sni=nl3.truservice.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0028
 vless://f8f19bc7-54c1-4612-9cff-4ce3852d2bba@www.speedtest.net:80?allowInsecure=0&sni=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#US_speednode_0030
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@172.105.217.136:2377?plugin=obfs-local;obfs=tls;obfs-host=e221b75:110505#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@172.105.217.136:2377?plugin=obfs-local;obfs=tls;obfs-host=e221b75:110505#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377?plugin=obfs-local;obfs=tls;obfs-host=e221b75:110505#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 
 
